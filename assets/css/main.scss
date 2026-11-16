@@ -5,15 +5,16 @@
 @import "minimal-mistakes";
 
 .page__content h2 {
-  margin-top: 1.9em;
-  padding-bottom: .3em;
+  margin-top: 1.15em;
+  margin-bottom: .55em;
+  padding-bottom: .22em;
   border-bottom: 1px solid #e9ecef;
-  font-size: 1.32em;
+  font-size: 1.16em;
 }
 
 .page__content {
-  font-size: .86em;
-  line-height: 1.5;
+  font-size: .79em;
+  line-height: 1.4;
 }
 
 .sidebar {
@@ -21,25 +22,25 @@
 }
 
 .page__content p {
-  margin-bottom: .8em;
+  margin-bottom: .5em;
 }
 
 /* Match the compact, wide academic-page layout of the supplied reference. */
 @media (min-width: 64em) {
   #main {
-    max-width: 1720px;
+    max-width: 1900px;
   }
 
   .sidebar {
-    width: calc(15% - 1em);
+    width: calc(13% - 1em);
   }
 
   .page {
-    width: calc(100% - 15%);
+    width: calc(100% - 13%);
   }
 
   .masthead__inner-wrap {
-    max-width: 1720px;
+    max-width: 1900px;
   }
 
   .greedy-nav,
@@ -60,9 +61,9 @@
 }
 
 .publication-list li {
-  margin-bottom: .8em;
+  margin-bottom: .55em;
   padding-left: .15em;
-  line-height: 1.45;
+  line-height: 1.34;
 }
 
 .venue-badge,
