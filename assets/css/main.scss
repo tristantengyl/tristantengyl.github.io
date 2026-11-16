@@ -27,15 +27,24 @@
 /* Match the compact, wide academic-page layout of the supplied reference. */
 @media (min-width: 64em) {
   #main {
-    max-width: 1500px;
+    max-width: 1720px;
   }
 
   .sidebar {
-    width: calc(18% - 1em);
+    width: calc(15% - 1em);
   }
 
   .page {
-    width: calc(100% - 18%);
+    width: calc(100% - 15%);
+  }
+
+  .masthead__inner-wrap {
+    max-width: 1720px;
+  }
+
+  .greedy-nav,
+  .greedy-nav .visible-links {
+    justify-content: center;
   }
 }
 
