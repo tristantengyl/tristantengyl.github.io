@@ -1,0 +1,54 @@
+title: "Yulin Teng | Academic Homepage"
+description: "Yulin Teng's research on trustworthy autonomous UAV cyber-physical systems, physical-layer security, and wireless sensing."
+repository: "tristantengyl/tristantengyl.github.io"
+url: "https://tristantengyl.github.io"
+baseurl: ""
+locale: "en-US"
+timezone: "Asia/Shanghai"
+
+# The original AcadHomepage design is built on Minimal Mistakes.  This remote
+# theme keeps this starter small while GitHub Pages builds it automatically.
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"
+plugins:
+  - jekyll-include-cache
+  - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Optional: set your GA4 measurement ID after the website is online.
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: ""
+    anonymize_ip: false
+
+author:
+  name: "Yulin Teng"
+  avatar: "/images/yulin-teng-web.jpg"
+  bio: "Incoming Postdoctoral Fellow · HKUST (Dec. 2026)"
+  location: "Hong Kong SAR, China"
+  employer: "Department of Computer Science and Engineering, HKUST (incoming)"
+  uri: ""
+  email: "tengyl@njupt.edu.cn"
+  github: "tristantengyl"
+  googlescholar: ""
+  orcid: ""
+  dblp: "https://dblp.uni-trier.de/pid/338/4707.html"
+  linkedin: ""
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      show_date: false
+
+include:
+  - _pages
+exclude:
+  - README-zh.md
+  - CUSTOMIZE-ME.md
+
