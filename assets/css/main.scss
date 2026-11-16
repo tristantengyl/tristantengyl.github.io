@@ -51,6 +51,8 @@
 @media (min-width: 64em) {
   #main {
     max-width: 1900px;
+    position: relative;
+    left: 2.5vw;
   }
 
   .sidebar {
@@ -63,6 +65,8 @@
 
   .masthead__inner-wrap {
     max-width: 1900px;
+    position: relative;
+    left: 2.5vw;
   }
 
   .greedy-nav,
