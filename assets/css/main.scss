@@ -27,11 +27,6 @@
 
 /* Keep the full identity in the browser title while showing a compact Homepage label. */
 .site-title {
-  font-size: 0;
-}
-
-.site-title::after {
-  content: "Homepage";
   font-size: .82rem;
 }
 
