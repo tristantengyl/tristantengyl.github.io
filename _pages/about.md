@@ -19,9 +19,9 @@ My long-term goal is to develop physical-evidence-driven wireless sensing, authe
 
 ## Educations
 
-- **Dec. 2026 (incoming)** — Postdoctoral Researcher, **Hong Kong University of Science and Technology (HKUST)**. Advisor: Prof. Mo Li.
-- **Sep. 2022–Oct. 2026** — Ph.D. in Cyberspace Security, **Nanjing University of Posts and Telecommunications**. Advisors: Prof. Fu Xiao and Associate Prof. Pinchang Zhang.
-- **Sep. 2018–Jun. 2022** — B.Eng. in Information Security, **Nanjing University of Posts and Telecommunications**. Advisor: Prof. Fu Xiao.
+- **Dec. 2026–Present** — Postdoctoral Researcher, CSE, **Hong Kong University of Science and Technology (HKUST)**.
+- **Sep. 2022–Oct. 2026** — Ph.D. in Cyberspace Security, **Nanjing University of Posts and Telecommunications**.
+- **Sep. 2018–Jun. 2022** — B.Eng. in Information Security, **Nanjing University of Posts and Telecommunications**.
 
 <span id="research"></span>
 

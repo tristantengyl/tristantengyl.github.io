@@ -17,12 +17,34 @@
   line-height: 1.4;
 }
 
+.masthead {
+  margin-bottom: 0;
+}
+
+.initial-content {
+  padding-top: .2em;
+}
+
+/* Keep the full identity in the browser title while showing a compact Homepage label. */
+.site-title {
+  font-size: 0;
+}
+
+.site-title::after {
+  content: "Homepage";
+  font-size: .95rem;
+}
+
 .sidebar {
   font-size: .82em;
 }
 
 .page__content p {
   margin-bottom: .5em;
+}
+
+.page__content h2:first-of-type {
+  margin-top: .35em;
 }
 
 /* Match the compact, wide academic-page layout of the supplied reference. */
