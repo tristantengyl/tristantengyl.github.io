@@ -36,6 +36,10 @@ author:
   orcid: ""
   dblp: "https://dblp.uni-trier.de/pid/338/4707.html"
   linkedin: ""
+  links:
+    - label: "IEEE Author Profile"
+      icon: "fas fa-fw fa-book-open"
+      url: "https://ieeexplore.ieee.org/author/37090055790"
 
 defaults:
   - scope:
