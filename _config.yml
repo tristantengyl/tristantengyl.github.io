@@ -29,13 +29,13 @@ author:
   bio: "Incoming Postdoctoral Fellow · HKUST (Dec. 2026)"
   location: "Hong Kong SAR, China"
   employer: "Department of Computer Science and Engineering, HKUST (incoming)"
-  uri: ""
+  uri: null
   email: "tengyl@njupt.edu.cn"
-  github: ""
+  github: null
   googlescholar: ""
   orcid: ""
   dblp: ""
-  linkedin: ""
+  linkedin: null
   links:
     - label: "IEEE Author Profile"
       icon: "fas fa-fw fa-book-open"

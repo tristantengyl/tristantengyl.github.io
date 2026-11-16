@@ -13,7 +13,7 @@
 }
 
 .page__content {
-  font-size: .79em;
+  font-size: .74em;
   line-height: 1.4;
 }
 
@@ -32,11 +32,11 @@
 
 .site-title::after {
   content: "Homepage";
-  font-size: .95rem;
+  font-size: .82rem;
 }
 
 .sidebar {
-  font-size: .82em;
+  font-size: .76em;
 }
 
 .page__content p {
@@ -52,7 +52,7 @@
   #main {
     max-width: 1900px;
     position: relative;
-    left: 2.5vw;
+    left: 5vw;
   }
 
   .sidebar {
@@ -66,7 +66,7 @@
   .masthead__inner-wrap {
     max-width: 1900px;
     position: relative;
-    left: 2.5vw;
+    left: 5vw;
   }
 
   .greedy-nav,
@@ -76,6 +76,10 @@
 
   .greedy-nav .visible-links {
     margin-left: .75rem;
+  }
+
+  .greedy-nav a {
+    font-size: .82rem;
   }
 }
 
