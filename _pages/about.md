@@ -9,7 +9,7 @@ author_profile: true
 
 ## About Me
 
-I am an incoming Postdoctoral Fellow in the **Department of Computer Science and Engineering at The Hong Kong University of Science and Technology (HKUST)**, working with **Prof. Mo Li**. I received my doctoral training in Cyberspace Security at **Nanjing University of Posts and Telecommunications (NJUPT)**, under the supervision of **Prof. Fu Xiao** and **Associate Prof. Pinchang Zhang**.
+I am an incoming Postdoctoral Fellow in the **Department of Computer Science and Engineering at The Hong Kong University of Science and Technology (HKUST)**, working with [**Prof. Mo Li**](https://home.cse.ust.hk/~lim/). I received my doctoral training in Cyberspace Security at **Nanjing University of Posts and Telecommunications (NJUPT)**, under the supervision of [**Prof. Fu Xiao**](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52A832DCFE050007F01006EFE) and [**Associate Prof. Pinchang Zhang**](https://mrwx481.github.io/).
 
 My research interests lie in **Wireless Security and Cyber-Physical Systems Security**, with a particular focus on wireless physical-layer security and authentication, security in low-altitude UAV networks, and emerging security challenges in autonomous cyber-physical systems (CPS).
 
@@ -19,7 +19,7 @@ My long-term goal is to develop physical-evidence-driven wireless sensing, authe
 
 ## Educations
 
-- **Dec. 2026–Present** — Postdoctoral Researcher, CSE, **Hong Kong University of Science and Technology (HKUST)**.
+- **Dec. 2026–Present** — Postdoctoral Researcher, CSE, **Hong Kong University of Science and Technology**.
 - **Sep. 2022–Oct. 2026** — Ph.D. in Cyberspace Security, **Nanjing University of Posts and Telecommunications**.
 - **Sep. 2018–Jun. 2022** — B.Eng. in Information Security, **Nanjing University of Posts and Telecommunications**.
 
