@@ -71,7 +71,11 @@
 
   .greedy-nav,
   .greedy-nav .visible-links {
-    justify-content: center;
+    justify-content: flex-start;
+  }
+
+  .greedy-nav .visible-links {
+    margin-left: .75rem;
   }
 }
 
