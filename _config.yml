@@ -1,4 +1,4 @@
-title: "Yulin Teng | Academic Homepage"
+title: "Yulin Teng (滕育林) - Homepage"
 description: "Yulin Teng's research on trustworthy autonomous UAV cyber-physical systems, physical-layer security, and wireless sensing."
 repository: "tristantengyl/tristantengyl.github.io"
 url: "https://tristantengyl.github.io"
@@ -31,15 +31,18 @@ author:
   employer: "Department of Computer Science and Engineering, HKUST (incoming)"
   uri: ""
   email: "tengyl@njupt.edu.cn"
-  github: "tristantengyl"
+  github: ""
   googlescholar: ""
   orcid: ""
-  dblp: "https://dblp.uni-trier.de/pid/338/4707.html"
+  dblp: ""
   linkedin: ""
   links:
     - label: "IEEE Author Profile"
       icon: "fas fa-fw fa-book-open"
       url: "https://ieeexplore.ieee.org/author/37090055790"
+    - label: "DBLP"
+      icon: "fas fa-fw fa-book"
+      url: "https://dblp.uni-trier.de/pid/338/4707.html"
 
 defaults:
   - scope:
@@ -55,4 +58,5 @@ include:
 exclude:
   - README-zh.md
   - CUSTOMIZE-ME.md
+
 

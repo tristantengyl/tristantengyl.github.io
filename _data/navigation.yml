@@ -7,8 +7,9 @@ main:
     url: "/#research"
   - title: "Publications"
     url: "/#publications"
-  - title: "CV"
+  - title: "Educations"
     url: "/#experience"
   - title: "Contact"
     url: "/#contact"
+
 

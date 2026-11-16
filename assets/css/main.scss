@@ -5,18 +5,38 @@
 @import "minimal-mistakes";
 
 .page__content h2 {
-  margin-top: 2.2em;
+  margin-top: 1.9em;
   padding-bottom: .3em;
   border-bottom: 1px solid #e9ecef;
-  font-size: 1.42em;
+  font-size: 1.32em;
 }
 
 .page__content {
-  font-size: .92em;
+  font-size: .86em;
+  line-height: 1.5;
 }
 
 .sidebar {
-  font-size: .9em;
+  font-size: .82em;
+}
+
+.page__content p {
+  margin-bottom: .8em;
+}
+
+/* Match the compact, wide academic-page layout of the supplied reference. */
+@media (min-width: 64em) {
+  #main {
+    max-width: 1500px;
+  }
+
+  .sidebar {
+    width: calc(18% - 1em);
+  }
+
+  .page {
+    width: calc(100% - 18%);
+  }
 }
 
 .author__avatar img {
@@ -31,9 +51,9 @@
 }
 
 .publication-list li {
-  margin-bottom: 1.05em;
+  margin-bottom: .8em;
   padding-left: .15em;
-  line-height: 1.48;
+  line-height: 1.45;
 }
 
 .venue-badge,
@@ -82,4 +102,5 @@ a.paper-button:focus {
   color: #7b8490;
   cursor: not-allowed;
 }
+
 
